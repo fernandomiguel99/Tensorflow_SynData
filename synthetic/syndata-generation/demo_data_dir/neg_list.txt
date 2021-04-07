@@ -1,0 +1,1 @@
+lista com o nome das pastas de objetos a serem negados
